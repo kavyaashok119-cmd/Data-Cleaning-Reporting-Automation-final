@@ -1,0 +1,511 @@
+customer_id,customer_name,gender,age,product,category,region,quantity,price,discount,revenue,purchase_date
+C1040,Grace Reddy,Male,39,Jacket,Clothing,Central,2,77.47,0.1,139.45,2024-05-15
+C1176,Rahul Garcia,Male,47,Smartphone,Electronics,East,7,534.8,0.05,3556.42,2024-03-22
+C1105,Rohan Reddy,Female,48,Headphones,Electronics,West,6,81.52,0.05,464.66,2024-10-09
+C1120,Emma Taylor,Male,59,Jeans,Clothing,North,4,43.76,0.1,157.54,2024-04-04
+C1265,Sneha Reddy,Male,54,Sneakers,Clothing,North,7,70.01,0.2,392.06,2024-05-26
+C1160,Vikram Nair,Female,43,Headphones,Electronics,North,1,76.07,0.2,60.86,2024-03-10
+C1181,Michael Patel,Female,22,Dumbbells,Sports,North,2,48.74,0.2,77.98,2024-09-22
+C1038,Rohan Brown,Male,44,T-Shirt,Clothing,East,7,22.13,0.05,147.16,2024-04-30
+C1238,Olivia Khan,Female,49,Cookware Set,Home & Kitchen,East,1,137.71,0.2,110.17,2024-01-12
+C1045,Rohan Singh,Male,54,Football,Sports,North,1,24.81,0.0,24.81,2024-03-16
+C1255,Priya Patel,Female,61,Tablet,Electronics,South,7,411.31,0.2,2303.34,2024-07-31
+C1221,Michael Mehta,Male,28,Novel,Books,South,3,16.35,0.0,49.05,2024-11-28
+C1218,Rahul Patel,Female,44,Smartwatch,Electronics,Central,4,193.53,0.15,658.0,2024-08-01
+C1276,Emma Singh,Male,65,Jacket,Clothing,South,6,78.3,0.1,422.82,2024-03-29
+C1183,Rohan Mehta,Male,52,Football,Sports,West,6,27.88,0.05,158.92,2024-04-01
+C1112,Meera Brown,Female,66,Coffee Maker,Home & Kitchen,South,4,101.7,0.05,386.46,2024-11-06
+C1098,Liam Wilson,Male,63,Smartphone,Electronics,West,2,514.54,0.05,977.63,2024-04-16
+C1097,Rohan Singh,Female,27,Football,Sports,North,1,24.34,0.15,20.69,2024-08-25
+C1246,David Reddy,Female,34,Smartphone,Electronics,East,4,599.58,0.1,2158.49,2024-01-12
+C1253,John Brown,Female,61,Jeans,Clothing,Central,3,38.4,0.1,103.68,2024-03-13
+C1277,Rohan Sharma,Female,44,Blender,Home & Kitchen,East,2,54.06,0.2,86.5,2024-04-21
+C1097,Rohan Singh,Female,27,Sneakers,Clothing,South,3,69.87,0.2,167.69,2024-12-16
+C1010,Rahul Mehta,Female,36,Novel,Books,North,2,15.09,0.05,28.67,2024-04-30
+C1081,Grace Smith,Male,19,Sneakers,Clothing,West,3,71.43,0.1,192.86,2024-04-16
+C1156,David Smith,Male,37,Headphones,Electronics,Central,4,74.08,0.0,296.32,2024-02-09
+C1280,Aarav Patel,Male,44,Jacket,Clothing,Central,2,85.18,0.15,144.81,2024-09-18
+C1035,Grace Smith,Male,39,Smartphone,Electronics,East,4,655.97,0.1,2361.49,2024-03-30
+C1038,Rohan Brown,Female,52,Headphones,Electronics,Central,2,91.34,0.2,146.14,2024-09-05
+C1270,Rohan Lee,Female,46,Coffee Maker,Home & Kitchen,South,5,92.79,0.1,417.56,2024-05-06
+C1017,Priya Iyer,Female,27,T-Shirt,Clothing,East,7,18.45,0.0,129.15,2024-08-03
+C1276,Emma Singh,Male,65,Dumbbells,Sports,Central,3,49.06,0.15,125.1,2024-12-31
+C1087,Ananya Singh,Female,20,Dumbbells,Sports,Central,7,49.24,0.2,275.74,2024-01-19
+C1178,Sneha Mehta,Female,59,Dumbbells,Sports,South,5,55.82,0.0,279.1,2024-11-24
+C1099,Aarav Singh,Male,34,Headphones,Electronics,Central,1,84.43,0.05,80.21,2024-01-09
+C1055,Rahul Iyer,Female,28,Yoga Mat,Sports,North,7,34.28,0.2,191.97,2024-06-15
+C1026,Michael Taylor,Female,44,Football,Sports,North,5,26.14,0.1,117.63,2024-11-19
+C1152,Grace Nair,Female,42,Novel,Books,West,4,14.73,0.1,53.03,2024-12-17
+C1132,Rohan Nair,Female,26,Laptop,Electronics,Central,1,824.82,0.05,783.58,2024-06-20
+C1133,Rahul Smith,Female,25,Coffee Maker,Home & Kitchen,East,5,84.36,0.15,358.53,2024-01-11
+C1117,Ananya Lee,Female,59,Jeans,Clothing,South,6,40.69,0.05,231.93,2024-02-24
+C1216,Aisha Reddy,Female,61,Blender,Home & Kitchen,South,7,67.48,0.1,425.12,2024-09-16
+C1245,David Reddy,Female,51,Tablet,Electronics,Central,5,401.89,0.2,1607.56,2024-11-14
+C1080,Emma Patel,Female,44,T-Shirt,Clothing,South,5,20.1,0.15,85.42,2024-04-22
+C1070,John Iyer,Female,43,Smartwatch,Electronics,Central,3,206.46,0.15,526.47,2024-04-20
+C1104,Grace Patel,Male,44,Coffee Maker,Home & Kitchen,East,6,91.73,0.05,522.86,2024-02-18
+C1229,Meera Mehta,Male,51,T-Shirt,Clothing,Central,4,22.58,0.0,90.32,2024-12-05
+C1148,John Lee,Male,59,Dumbbells,Sports,South,3,54.95,0.0,164.85,2024-02-07
+C1249,Meera Khan,Male,44,Yoga Mat,Sports,East,5,31.17,0.1,140.27,2024-03-08
+C1284,Sneha Khan,Female,46,Laptop,Electronics,East,7,778.64,0.15,4632.91,2024-04-27
+C1001,Sofia Nair,Male,54,Cookware Set,Home & Kitchen,East,1,132.47,0.2,105.98,2024-03-05
+C1165,Ananya Mehta,Male,28,Jacket,Clothing,Central,7,98.75,0.05,656.69,2024-09-02
+C1115,Sneha Patel,Female,39,Jacket,Clothing,East,5,92.75,0.2,371.0,2024-07-03
+C1012,Vikram Mehta,Female,28,Smartwatch,Electronics,North,3,190.24,0.0,570.72,2024-12-07
+C1120,Emma Taylor,Male,59,Jacket,Clothing,North,6,81.9,0.15,417.69,2024-06-18
+C1288,Sofia Nair,Male,48,Smartwatch,Electronics,East,5,208.18,0.1,936.81,2024-01-30
+C1216,Aisha Reddy,Female,61,Laptop,Electronics,West,1,874.11,0.05,830.4,2024-05-05
+C1115,Sneha Patel,Female,44,Smartwatch,Electronics,East,5,242.87,0.0,1214.35,2024-08-26
+C1295,David Nair,Female,41,Blender,Home & Kitchen,North,7,51.38,0.05,341.68,2024-02-10
+C1018,Arjun Patel,Female,42,Sneakers,Clothing,East,7,64.65,0.15,384.67,2024-02-19
+C1149,David Mehta,Female,51,Jacket,Clothing,North,7,91.01,0.1,573.36,2024-05-07
+C1141,Rohan Smith,Male,30,Headphones,Electronics,East,6,70.5,0.2,338.4,2024-10-06
+C1210,Emma Reddy,Female,19,T-Shirt,Clothing,West,7,19.22,0.05,127.81,2024-07-16
+C1233,John Reddy,Male,66,Blender,Home & Kitchen,Central,1,58.79,0.0,58.79,2024-12-09
+C1297,David Sharma,Male,32,Laptop,Electronics,Central,6,963.61,0.05,5492.58,2024-02-08
+C1027,Arjun Reddy,Male,58,Desk Lamp,Home & Kitchen,East,5,38.63,0.0,193.15,2024-12-27
+C1279,Grace Wilson,Female,43,Desk Lamp,Home & Kitchen,Central,5,37.24,0.15,158.27,2024-01-03
+C1194,Sofia Patel,Male,44,Novel,Books,North,6,13.29,0.0,79.74,2024-05-03
+C1279,Grace Wilson,Female,43,T-Shirt,Clothing,East,1,21.64,0.15,18.39,2024-09-25
+C1212,Michael Wilson,Female,59,Laptop,Electronics,Central,7,867.85,0.0,6074.95,2024-02-08
+C1117,Unknown,Female,59,Blender,Home & Kitchen,North,3,58.82,0.0,176.46,2024-05-11
+C1231,John Lee,Female,33,Dumbbells,Sports,Central,4,63.0,0.2,201.6,2024-05-09
+C1054,Unknown,Male,64,Sneakers,Clothing,North,3,76.42,0.2,183.41,2024-08-10
+C1290,David Iyer,Male,45,Tablet,Electronics,West,2,415.2,0.05,788.88,2024-05-24
+C1163,Ananya Taylor,Male,45,Laptop,Electronics,West,5,824.52,0.2,3298.08,2024-12-18
+C1250,Michael Mehta,Female,64,Jacket,Clothing,East,1,97.02,0.15,82.47,2024-01-16
+C1273,Aisha Khan,Male,22,Jeans,Clothing,South,7,43.45,0.05,288.94,2024-05-05
+C1108,Michael Patel,Male,24,Laptop,Electronics,East,5,776.63,0.2,3106.52,2024-10-10
+C1185,Michael Mehta,Female,32,Tablet,Electronics,West,7,418.73,0.05,2784.55,2024-04-02
+C1016,Sofia Brown,Female,37,Coffee Maker,Home & Kitchen,South,18,86.84,0.2,1250.5,2024-06-06
+C1015,Rohan Mehta,Male,68,Headphones,Electronics,Central,3,82.87,0.0,248.61,2024-03-13
+C1017,Priya Iyer,Female,27,Sneakers,Clothing,East,1,64.95,0.0,64.95,2024-01-04
+C1052,John Mehta,Male,55,Blender,Home & Kitchen,West,3,62.46,0.1,168.64,2024-09-05
+C1168,Olivia Patel,Female,55,Smartphone,Electronics,North,6,682.09,0.0,4092.54,2024-04-13
+C1063,Ananya Brown,Female,25,Football,Sports,Central,6,24.08,0.15,122.81,2024-12-06
+C1001,Sofia Nair,Male,54,Coffee Maker,Home & Kitchen,West,3,96.45,0.2,231.48,2024-05-15
+C1275,Arjun Iyer,Female,25,Yoga Mat,Sports,East,2,33.71,0.05,64.05,2024-05-05
+C1050,Liam Nair,Male,54,Desk Lamp,Home & Kitchen,East,6,31.59,0.05,180.06,2024-10-15
+C1078,Rahul Smith,Male,52,Desk Lamp,Home & Kitchen,Central,7,38.77,0.0,271.39,2024-02-20
+C1292,Grace Nair,Female,50,Yoga Mat,Sports,East,3,31.61,0.1,85.35,2024-05-25
+C1072,Meera Iyer,Female,31,Sneakers,Clothing,North,2,63.89,0.2,102.22,2024-05-18
+C1021,Olivia Reddy,Male,34,Sneakers,Clothing,North,4,67.91,0.1,244.48,2024-08-29
+C1255,Priya Patel,Female,61,Headphones,Electronics,West,6,77.23,0.0,463.38,2024-11-24
+C1177,Arjun Iyer,Female,45,Laptop,Electronics,West,1,889.2,0.05,844.74,2024-08-03
+C1220,Priya Taylor,Male,26,Yoga Mat,Sports,West,4,27.44,0.1,98.78,2024-05-29
+C1263,Meera Lee,Male,69,Sneakers,Clothing,West,5,75.49,0.2,301.96,2024-07-07
+C1030,Sofia Reddy,Male,42,Cookware Set,Home & Kitchen,East,4,132.89,0.0,531.56,2024-12-14
+C1244,Priya Wilson,Male,47,Dumbbells,Sports,West,3,62.99,0.05,179.52,2024-05-10
+C1288,Sofia Nair,Male,48,Novel,Books,Central,18,15.18,0.05,259.58,2024-05-06
+C1273,Aisha Khan,Male,22,Football,Sports,North,5,22.65,0.05,107.59,2024-03-14
+C1046,Arjun Iyer,Male,37,Jacket,Clothing,East,2,91.41,0.1,164.54,2024-04-17
+C1000,Priya Mehta,Female,40,Novel,Books,East,2,15.08,0.1,27.14,2024-06-14
+C1189,Sneha Khan,Male,55,Novel,Books,North,2,16.4,0.15,27.88,2024-01-17
+C1050,Liam Nair,Male,54,Sneakers,Clothing,Central,2,78.25,0.0,156.5,2024-07-27
+C1044,Vikram Singh,Female,44,Tablet,Electronics,East,3,408.23,0.2,979.75,2024-04-05
+C1029,Aarav Patel,Male,23,Laptop,Electronics,North,6,888.83,0.2,4266.38,2024-05-05
+C1152,Grace Nair,Female,42,Desk Lamp,Home & Kitchen,South,4,32.52,0.05,123.58,2024-05-26
+C1056,Vikram Brown,Female,48,Football,Sports,South,6,26.51,0.1,143.15,2024-01-23
+C1284,Sneha Khan,Female,46,Textbook,Books,West,4,67.56,0.15,229.7,2024-08-13
+C1139,Sneha Nair,Male,62,Tablet,Electronics,North,1,421.54,0.05,400.46,2024-11-22
+C1034,David Sharma,Male,40,Smartwatch,Electronics,North,7,245.51,0.0,1718.57,2024-09-05
+C1259,Rohan Sharma,Male,61,Sneakers,Clothing,North,5,72.17,0.05,342.81,2024-03-06
+C1223,Meera Lee,Female,49,T-Shirt,Clothing,East,4,22.58,0.0,90.32,2024-06-30
+C1027,Arjun Reddy,Male,58,Yoga Mat,Sports,South,2,30.33,0.15,51.56,2024-03-07
+C1090,Aisha Nair,Male,64,Blender,Home & Kitchen,Central,7,60.78,0.2,340.37,2024-03-19
+C1272,Olivia Patel,Female,41,Football,Sports,South,6,23.96,0.2,115.01,2024-02-24
+C1114,Rahul Wilson,Female,23,Headphones,Electronics,West,1,81.52,0.05,77.44,2024-12-01
+C1261,Vikram Singh,Male,49,Headphones,Electronics,Central,5,70.32,0.05,334.02,2024-04-26
+C1023,Aisha Khan,Female,32,Sneakers,Clothing,East,4,77.2,0.05,293.36,2024-01-02
+C1192,Rahul Khan,Female,69,Novel,Books,West,3,16.47,0.1,44.47,2024-02-28
+C1057,Meera Singh,Male,62,Laptop,Electronics,East,7,957.94,0.2,5364.46,2024-08-25
+C1188,Priya Lee,Female,40,Football,Sports,West,1,24.27,0.2,19.42,2024-01-02
+C1105,Rohan Reddy,Female,48,Blender,Home & Kitchen,South,7,56.77,0.05,377.52,2024-01-26
+C1297,David Sharma,Male,32,Laptop,Electronics,North,2,789.41,0.1,1420.94,2024-11-15
+C1241,Grace Wilson,Female,34,Yoga Mat,Sports,West,5,30.92,0.0,154.6,2024-06-14
+C1217,Arjun Sharma,Male,28,Football,Sports,North,6,23.24,0.1,125.5,2024-01-17
+C1259,Rohan Sharma,Male,44,Smartwatch,Electronics,North,2,217.02,0.1,390.64,2024-01-31
+C1254,Liam Iyer,Male,24,Blender,Home & Kitchen,East,2,61.68,0.0,123.36,2024-08-19
+C1294,Emma Singh,Male,19,Football,Sports,East,3,21.57,0.1,58.24,2024-12-17
+C1114,Unknown,Female,23,Desk Lamp,Home & Kitchen,Central,3,30.37,0.1,82.0,2024-03-07
+C1188,Priya Lee,Female,40,Jacket,Clothing,East,3,85.12,0.15,217.06,2024-07-28
+C1052,John Mehta,Male,55,Tablet,Electronics,West,2,395.66,0.05,751.75,2024-03-11
+C1221,Michael Mehta,Male,28,Coffee Maker,Home & Kitchen,East,3,94.07,0.15,239.88,2024-07-26
+C1022,Sneha Taylor,Male,59,Smartphone,Electronics,Central,7,514.28,0.0,3599.96,2024-07-18
+C1017,Priya Iyer,Female,44,Smartwatch,Electronics,East,4,197.6,0.15,671.84,2024-02-24
+C1085,Olivia Brown,Female,44,Tablet,Electronics,North,3,437.93,0.2,1051.03,2024-07-27
+C1112,Meera Brown,Female,66,Blender,Home & Kitchen,East,6,53.73,0.05,306.26,2024-08-10
+C1233,John Reddy,Male,66,Desk Lamp,Home & Kitchen,East,5,39.84,0.05,189.24,2024-08-07
+C1131,Emma Brown,Female,25,Textbook,Books,North,3,66.035,0.05,188.2,2024-03-07
+C1157,Meera Khan,Female,35,Textbook,Books,West,2,73.34,0.1,132.01,2024-02-08
+C1216,Aisha Reddy,Female,61,Dumbbells,Sports,West,4,54.86,0.1,197.5,2024-08-22
+C1148,John Lee,Male,59,Smartphone,Electronics,Central,7,583.23,0.2,3266.09,2024-07-27
+C1179,Meera Iyer,Male,49,Football,Sports,East,1,28.21,0.1,25.39,2024-10-19
+C1239,Sofia Wilson,Female,39,Tablet,Electronics,West,4,435.43,0.2,1393.38,2024-01-03
+C1092,Aarav Mehta,Male,52,Jacket,Clothing,Central,2,97.01,0.05,184.32,2024-04-01
+C1242,Rohan Sharma,Male,39,Jeans,Clothing,North,4,42.71,0.15,145.21,2024-06-06
+C1172,Arjun Mehta,Female,59,Smartphone,Electronics,East,7,619.56,0.2,3469.54,2024-03-09
+C1100,Grace Mehta,Male,68,Smartwatch,Electronics,North,3,189.17,0.05,539.13,2024-04-09
+C1293,Sofia Singh,Female,35,Yoga Mat,Sports,South,1,25.66,0.1,23.09,2024-02-27
+C1197,Meera Sharma,Male,41,Sneakers,Clothing,East,7,65.07,0.05,432.72,2024-11-07
+C1181,Michael Patel,Female,22,Sneakers,Clothing,Central,4,69.88,0.05,265.54,2024-10-26
+C1002,Ananya Patel,Female,68,Textbook,Books,North,18,74.12,0.2,1067.33,2024-03-01
+C1011,Priya Lee,Male,64,Textbook,Books,Central,6,62.73,0.15,319.92,2024-10-20
+C1051,Unknown,Female,68,Tablet,Electronics,Central,4,389.21,0.1,1401.16,2024-09-28
+C1032,David Wilson,Female,46,Cookware Set,Home & Kitchen,West,3,136.2,0.15,347.31,2024-07-19
+C1172,Arjun Mehta,Female,59,Tablet,Electronics,Central,2,381.3,0.0,762.6,2024-07-06
+C1256,Michael Sharma,Male,32,Smartwatch,Electronics,Central,2,208.28,0.0,416.56,2024-05-07
+C1247,John Taylor,Male,44,T-Shirt,Clothing,North,3,18.01,0.05,51.33,2024-02-18
+C1046,Arjun Iyer,Female,37,Smartphone,Electronics,East,4,621.63,0.05,2362.19,2024-02-02
+C1042,Liam Sharma,Male,22,T-Shirt,Clothing,East,1,19.01,0.1,17.11,2024-09-24
+C1191,Unknown,Female,42,T-Shirt,Clothing,East,4,19.45,0.0,77.8,2024-02-13
+C1234,Rahul Singh,Male,44,Headphones,Electronics,Central,2,72.63,0.05,138.0,2024-12-02
+C1003,Sneha Mehta,Female,58,Smartphone,Electronics,West,3,602.2,0.05,1716.27,2024-01-26
+C1072,Meera Iyer,Female,31,Football,Sports,West,7,28.64,0.2,160.38,2024-07-31
+C1048,David Khan,Female,22,T-Shirt,Clothing,North,5,20.38,0.15,86.62,2024-11-05
+C1070,John Iyer,Female,43,Headphones,Electronics,South,5,86.58,0.0,432.9,2024-02-12
+C1030,Sofia Reddy,Male,42,Sneakers,Clothing,South,1,68.94,0.15,58.6,2024-04-23
+C1222,Aarav Smith,Male,44,Laptop,Electronics,South,4,848.62,0.0,3394.48,2024-12-14
+C1159,John Brown,Female,67,Smartphone,Electronics,South,4,539.89,0.15,1835.63,2024-12-20
+C1221,Michael Mehta,Male,44,Smartphone,Electronics,North,1,517.39,0.05,491.52,2024-07-28
+C1261,Vikram Singh,Male,49,Smartwatch,Electronics,East,2,196.15,0.05,372.68,2024-04-12
+C1011,Priya Lee,Male,64,Novel,Books,West,4,14.88,0.1,53.57,2024-01-31
+C1026,Michael Taylor,Female,52,Laptop,Electronics,Central,7,762.67,0.05,5071.76,2024-04-13
+C1254,Liam Iyer,Male,24,Yoga Mat,Sports,East,5,27.78,0.15,118.06,2024-03-08
+C1062,Michael Sharma,Male,43,Tablet,Electronics,North,6,402.27,0.2,1930.9,2024-10-07
+C1295,David Nair,Female,41,Novel,Books,South,5,15.41,0.15,65.49,2024-01-10
+C1052,John Mehta,Male,55,T-Shirt,Clothing,East,3,18.64,0.0,55.92,2024-01-06
+C1133,Rahul Smith,Female,25,Smartphone,Electronics,West,5,672.72,0.2,2690.88,2024-11-11
+C1201,Sneha Mehta,Female,44,Tablet,Electronics,South,2,361.06,0.2,577.7,2024-12-24
+C1020,Rohan Iyer,Male,61,Tablet,Electronics,North,6,435.59,0.05,2482.86,2024-06-03
+C1025,Michael Singh,Female,18,Headphones,Electronics,South,4,83.34,0.15,283.36,2024-02-28
+C1116,Aarav Lee,Male,48,Textbook,Books,South,4,60.07,0.1,216.25,2024-09-30
+C1034,David Sharma,Male,40,Laptop,Electronics,North,2,916.87,0.2,1466.99,2024-04-08
+C1071,Sofia Lee,Male,47,Sneakers,Clothing,West,4,69.28,0.0,277.12,2024-07-26
+C1072,Meera Iyer,Female,31,Textbook,Books,East,1,69.84,0.2,55.87,2024-03-16
+C1111,Meera Reddy,Male,67,Blender,Home & Kitchen,North,2,54.74,0.05,104.01,2024-11-16
+C1115,Sneha Patel,Female,39,Smartwatch,Electronics,East,7,208.47,0.2,1167.43,2024-04-21
+C1184,Sneha Brown,Female,64,Yoga Mat,Sports,South,4,28.06,0.15,95.4,2024-08-07
+C1295,David Nair,Female,44,Coffee Maker,Home & Kitchen,West,3,89.01,0.1,240.33,2024-04-14
+C1193,Aarav Mehta,Female,67,Yoga Mat,Sports,South,7,26.2,0.15,155.89,2024-03-16
+C1152,Grace Nair,Female,42,Novel,Books,East,7,14.95,0.2,83.72,2024-11-10
+C1019,Emma Smith,Female,52,T-Shirt,Clothing,West,4,22.86,0.05,86.87,2024-06-10
+C1087,Ananya Singh,Female,20,Smartwatch,Electronics,West,4,247.64,0.1,891.5,2024-12-20
+C1112,Meera Brown,Female,66,Cookware Set,Home & Kitchen,South,2,128.9,0.2,206.24,2024-09-25
+C1102,Rohan Sharma,Male,29,Cookware Set,Home & Kitchen,South,3,132.96,0.2,319.1,2024-04-28
+C1202,Sofia Lee,Male,63,Jeans,Clothing,Central,3,47.94,0.2,115.06,2024-07-14
+C1190,Ananya Garcia,Female,66,T-Shirt,Clothing,South,7,20.1,0.0,140.7,2024-09-26
+C1024,John Reddy,Female,25,Tablet,Electronics,West,2,375.08,0.2,600.13,2024-03-01
+C1199,Grace Iyer,Male,41,Jeans,Clothing,West,5,40.91,0.05,194.32,2024-04-22
+C1125,Rahul Reddy,Female,63,Football,Sports,West,2,28.63,0.05,54.4,2024-10-27
+C1151,Michael Garcia,Female,44,Coffee Maker,Home & Kitchen,Central,6,92.01,0.1,496.85,2024-12-17
+C1059,Olivia Iyer,Male,50,Textbook,Books,Central,6,71.78,0.2,344.54,2024-09-01
+C1282,David Reddy,Male,52,Laptop,Electronics,East,3,925.49,0.1,2498.82,2024-06-05
+C1143,Emma Sharma,Male,37,Football,Sports,South,2,21.55,0.15,36.64,2024-07-18
+C1134,Arjun Patel,Female,19,Tablet,Electronics,East,4,376.25,0.05,1429.75,2024-03-25
+C1248,Ananya Iyer,Female,50,Smartphone,Electronics,West,1,630.15,0.15,535.63,2024-09-25
+C1253,John Brown,Female,61,Cookware Set,Home & Kitchen,West,1,129.26,0.2,103.41,2024-11-22
+C1185,Michael Mehta,Female,32,Desk Lamp,Home & Kitchen,East,5,36.92,0.0,184.6,2024-10-01
+C1051,Arjun Smith,Female,68,Coffee Maker,Home & Kitchen,Central,3,93.105,0.15,237.42,2024-04-26
+C1035,Grace Smith,Male,39,Dumbbells,Sports,South,4,51.94,0.1,186.98,2024-10-01
+C1148,John Lee,Male,59,Dumbbells,Sports,Central,6,54.6,0.0,327.6,2024-10-20
+C1000,Priya Mehta,Female,40,T-Shirt,Clothing,West,2,20.37,0.15,34.63,2024-08-02
+C1066,Grace Wilson,Male,36,Blender,Home & Kitchen,Central,2,65.44,0.2,104.7,2024-06-11
+C1280,Aarav Patel,Male,30,T-Shirt,Clothing,East,7,22.27,0.05,148.1,2024-11-07
+C1090,Aisha Nair,Female,64,Novel,Books,East,1,14.18,0.2,11.34,2024-02-24
+C1176,Rahul Garcia,Female,47,Blender,Home & Kitchen,West,3,67.33,0.1,181.79,2024-03-10
+C1252,Sneha Garcia,Male,59,Dumbbells,Sports,East,3,47.73,0.05,136.03,2024-06-22
+C1233,John Reddy,Male,44,Tablet,Electronics,East,1,446.83,0.1,402.15,2024-10-30
+C1108,Michael Patel,Male,24,Jacket,Clothing,South,6,101.77,0.2,488.5,2024-04-30
+C1098,Liam Wilson,Female,63,Jeans,Clothing,East,5,42.91,0.1,193.1,2024-12-31
+C1225,Aarav Sharma,Female,63,Tablet,Electronics,South,5,422.67,0.2,1690.68,2024-02-10
+C1185,Michael Mehta,Female,32,Yoga Mat,Sports,West,5,33.99,0.0,169.95,2024-12-03
+C1258,Sneha Brown,Male,56,Tablet,Electronics,South,6,407.52,0.15,2078.35,2024-07-13
+C1184,Sneha Brown,Female,64,T-Shirt,Clothing,North,2,18.02,0.0,36.04,2024-09-30
+C1203,Vikram Smith,Female,61,Novel,Books,Central,3,13.34,0.2,32.02,2024-11-27
+C1214,John Sharma,Female,44,Sneakers,Clothing,South,3,67.23,0.05,191.61,2024-08-16
+C1174,Vikram Wilson,Male,22,Cookware Set,Home & Kitchen,East,7,133.37,0.15,793.55,2024-05-11
+C1261,Vikram Singh,Male,49,Jacket,Clothing,East,6,85.27,0.1,460.46,2024-07-24
+C1056,Vikram Brown,Female,48,Headphones,Electronics,North,1,69.71,0.2,55.77,2024-02-02
+C1154,John Smith,Male,25,Dumbbells,Sports,Central,4,54.89,0.1,197.6,2024-12-20
+C1146,Sofia Nair,Female,23,Jacket,Clothing,West,7,81.58,0.05,542.51,2024-09-14
+C1070,Unknown,Female,43,Textbook,Books,Central,1,69.77,0.1,62.79,2024-11-29
+C1007,Meera Iyer,Male,29,Headphones,Electronics,East,18,88.66,0.2,1276.7,2024-07-21
+C1092,Aarav Mehta,Male,52,Tablet,Electronics,West,4,351.23,0.2,1123.94,2024-09-17
+C1150,Olivia Mehta,Female,24,Smartphone,Electronics,North,4,546.79,0.15,1859.09,2024-06-15
+C1039,Rahul Garcia,Female,58,Coffee Maker,Home & Kitchen,South,6,94.94,0.1,512.68,2024-02-26
+C1159,John Brown,Male,67,Tablet,Electronics,North,3,429.42,0.0,1288.26,2024-05-21
+C1241,Grace Wilson,Female,34,Jacket,Clothing,South,4,92.29,0.0,369.16,2024-08-27
+C1020,Rohan Iyer,Male,61,T-Shirt,Clothing,North,6,18.82,0.2,90.34,2024-01-25
+C1127,John Smith,Female,56,Headphones,Electronics,East,3,73.72,0.1,199.04,2024-09-03
+C1063,Ananya Brown,Male,25,Yoga Mat,Sports,North,4,28.83,0.1,103.79,2024-08-27
+C1161,Sneha Brown,Male,45,Novel,Books,Central,1,13.33,0.15,11.33,2024-02-28
+C1059,Olivia Iyer,Female,50,Jacket,Clothing,North,3,98.34,0.2,236.02,2024-03-30
+C1185,Michael Mehta,Female,32,Smartwatch,Electronics,Central,2,214.63,0.15,364.87,2024-02-07
+C1079,Sneha Mehta,Female,57,T-Shirt,Clothing,West,3,22.29,0.15,56.84,2024-12-03
+C1098,Liam Wilson,Female,63,Cookware Set,Home & Kitchen,South,3,105.91,0.15,270.07,2024-06-14
+C1140,Meera Sharma,Male,27,T-Shirt,Clothing,South,4,20.1,0.05,76.38,2024-07-17
+C1094,Sneha Mehta,Male,31,Yoga Mat,Sports,North,6,29.84,0.2,143.23,2024-12-03
+C1021,Olivia Reddy,Male,34,Sneakers,Clothing,North,4,79.45,0.05,301.91,2024-07-22
+C1146,Sofia Nair,Female,23,Jeans,Clothing,East,1,40.45,0.1,36.4,2024-10-29
+C1103,Emma Patel,Male,53,T-Shirt,Clothing,East,7,18.21,0.0,127.47,2024-06-24
+C1136,Michael Sharma,Male,48,Headphones,Electronics,East,5,78.59,0.1,353.66,2024-07-17
+C1234,Rahul Singh,Male,44,Cookware Set,Home & Kitchen,Central,6,106.48,0.05,606.94,2024-09-25
+C1256,Michael Sharma,Male,32,Blender,Home & Kitchen,South,4,59.82,0.15,203.39,2024-10-24
+C1159,John Brown,Female,67,Yoga Mat,Sports,West,1,29.52,0.05,28.04,2024-02-08
+C1157,Meera Khan,Female,35,Sneakers,Clothing,Central,4,70.21,0.05,266.8,2024-12-05
+C1133,Rahul Smith,Female,25,Smartphone,Electronics,Central,7,680.97,0.15,4051.77,2024-05-27
+C1114,Rahul Wilson,Female,23,Football,Sports,East,1,22.45,0.05,21.33,2024-09-09
+C1107,Aarav Mehta,Male,56,Laptop,Electronics,West,4,834.49,0.15,2837.27,2024-03-31
+C1132,Rohan Nair,Female,26,Desk Lamp,Home & Kitchen,East,3,36.42,0.15,92.87,2024-12-05
+C1261,Vikram Singh,Male,49,Novel,Books,Central,2,17.12,0.2,27.39,2024-03-26
+C1018,Arjun Patel,Female,42,Jeans,Clothing,South,2,45.29,0.1,81.52,2024-06-05
+C1198,Sneha Taylor,Male,33,Novel,Books,Central,5,13.09,0.15,55.63,2024-03-08
+C1033,Priya Garcia,Female,33,Blender,Home & Kitchen,East,1,59.81,0.05,56.82,2024-05-30
+C1153,Michael Khan,Female,51,Laptop,Electronics,West,1,833.5699999999999,0.1,750.21,2024-11-07
+C1182,Arjun Reddy,Female,39,Novel,Books,South,6,14.45,0.2,69.36,2024-11-03
+C1276,Emma Singh,Male,65,Coffee Maker,Home & Kitchen,North,1,81.37,0.2,65.1,2024-02-07
+C1080,Emma Patel,Female,65,Novel,Books,East,2,17.18,0.1,30.92,2024-12-04
+C1091,Rahul Garcia,Male,34,Laptop,Electronics,West,6,805.77,0.0,4834.62,2024-02-29
+C1015,Rohan Mehta,Male,68,Jacket,Clothing,East,7,78.84,0.05,524.29,2024-05-01
+C1255,Priya Patel,Female,61,Coffee Maker,Home & Kitchen,West,3,97.43,0.15,248.45,2024-08-15
+C1297,David Sharma,Male,32,Desk Lamp,Home & Kitchen,North,6,40.11,0.1,216.59,2024-01-07
+C1117,Ananya Lee,Female,59,Dumbbells,Sports,South,2,60.79,0.2,97.26,2024-01-27
+C1171,Ananya Taylor,Male,48,Textbook,Books,Central,3,56.26,0.1,151.9,2024-02-05
+C1179,Meera Iyer,Male,49,Smartwatch,Electronics,South,7,218.67,0.15,1301.09,2024-05-02
+C1271,Ananya Taylor,Female,69,T-Shirt,Clothing,Central,4,21.73,0.15,73.88,2024-04-08
+C1273,Aisha Khan,Male,22,Headphones,Electronics,North,1,69.44,0.2,55.55,2024-12-08
+C1226,Arjun Reddy,Male,27,Smartwatch,Electronics,West,5,242.58,0.05,1152.26,2024-12-14
+C1048,David Khan,Female,22,Tablet,Electronics,East,1,438.77,0.05,416.83,2024-09-12
+C1261,Vikram Singh,Male,49,T-Shirt,Clothing,Central,4,22.59,0.15,76.81,2024-11-28
+C1256,Michael Sharma,Male,32,Headphones,Electronics,South,2,83.68,0.1,150.62,2024-12-01
+C1113,Unknown,Female,46,Headphones,Electronics,North,2,90.49,0.2,144.78,2024-04-04
+C1021,Olivia Reddy,Male,34,Novel,Books,West,7,12.94,0.0,90.58,2024-12-15
+C1190,Ananya Garcia,Female,66,T-Shirt,Clothing,East,4,18.55,0.1,66.78,2024-05-12
+C1296,Sofia Brown,Male,44,Football,Sports,East,2,26.92,0.1,48.46,2024-03-28
+C1251,Unknown,Female,44,Headphones,Electronics,North,5,90.1,0.05,427.98,2024-07-23
+C1176,Rahul Garcia,Male,47,Smartwatch,Electronics,West,2,208.23000000000002,0.1,374.81,2024-07-16
+C1017,Priya Iyer,Female,27,Dumbbells,Sports,Central,5,54.97,0.15,233.62,2024-01-09
+C1279,Grace Wilson,Female,43,Jeans,Clothing,West,5,48.98,0.15,208.16,2024-01-20
+C1288,Sofia Nair,Male,48,Coffee Maker,Home & Kitchen,Central,6,90.4,0.1,488.16,2024-11-02
+C1011,Priya Lee,Male,44,Cookware Set,Home & Kitchen,East,3,133.76,0.15,341.09,2024-06-10
+C1269,Vikram Singh,Male,61,Headphones,Electronics,South,5,90.31,0.2,361.24,2024-05-06
+C1031,Aisha Garcia,Male,57,Sneakers,Clothing,West,5,69.09,0.05,328.18,2024-08-09
+C1064,Vikram Patel,Male,48,Blender,Home & Kitchen,Central,1,68.38,0.2,54.7,2024-10-16
+C1202,Sofia Lee,Male,63,Yoga Mat,Sports,Central,4,31.87,0.2,101.98,2024-02-16
+C1246,David Reddy,Male,34,Coffee Maker,Home & Kitchen,East,4,107.51,0.05,408.54,2024-12-30
+C1114,Rahul Wilson,Female,23,Blender,Home & Kitchen,East,7,55.23,0.0,386.61,2024-03-23
+C1281,Aisha Taylor,Female,51,Cookware Set,Home & Kitchen,North,5,117.02,0.1,526.59,2024-07-02
+C1097,Rohan Singh,Female,27,Jeans,Clothing,North,6,44.36,0.1,239.54,2024-04-22
+C1033,Priya Garcia,Female,33,Cookware Set,Home & Kitchen,East,6,126.67,0.05,722.02,2024-10-29
+C1045,Rohan Singh,Male,54,Dumbbells,Sports,West,1,58.72,0.0,58.72,2024-01-21
+C1076,Meera Patel,Male,44,Cookware Set,Home & Kitchen,North,5,111.9,0.0,559.5,2024-01-04
+C1109,David Nair,Male,38,Laptop,Electronics,Central,4,808.21,0.15,2747.91,2024-02-19
+C1176,Rahul Garcia,Male,47,Cookware Set,Home & Kitchen,West,1,135.36,0.05,128.59,2024-02-04
+C1215,Grace Nair,Male,58,Cookware Set,Home & Kitchen,West,7,130.14,0.1,819.88,2024-06-15
+C1154,John Smith,Male,25,Desk Lamp,Home & Kitchen,East,1,29.92,0.2,23.94,2024-11-28
+C1281,Aisha Taylor,Female,51,Jacket,Clothing,East,1,103.36,0.1,93.02,2024-07-06
+C1281,Aisha Taylor,Female,51,Headphones,Electronics,Central,2,86.98,0.05,165.26,2024-06-23
+C1094,Sneha Mehta,Male,31,Blender,Home & Kitchen,South,4,58.87,0.05,223.71,2024-10-30
+C1242,Rohan Sharma,Male,39,Cookware Set,Home & Kitchen,Central,2,128.09,0.1,230.56,2024-12-17
+C1067,Olivia Wilson,Male,19,Coffee Maker,Home & Kitchen,Central,3,101.0,0.15,257.55,2024-09-07
+C1002,Ananya Patel,Female,68,Novel,Books,Central,7,13.05,0.2,73.08,2024-09-15
+C1222,Aarav Smith,Male,54,Smartwatch,Electronics,West,1,190.03,0.05,180.53,2024-06-25
+C1105,Rohan Reddy,Female,48,Laptop,Electronics,North,7,836.04,0.05,5559.67,2024-03-15
+C1041,Sofia Taylor,Male,44,Textbook,Books,Central,4,73.3,0.05,278.54,2024-08-10
+C1281,Aisha Taylor,Female,51,Desk Lamp,Home & Kitchen,East,5,34.45,0.1,155.02,2024-03-02
+C1176,Rahul Garcia,Male,47,Coffee Maker,Home & Kitchen,North,5,89.52,0.05,425.22,2024-09-11
+C1062,Michael Sharma,Male,43,Jacket,Clothing,South,4,91.77,0.0,367.08,2024-10-06
+C1257,David Brown,Male,26,Jeans,Clothing,West,3,39.21,0.1,105.87,2024-10-03
+C1281,Aisha Taylor,Female,51,Yoga Mat,Sports,North,7,27.72,0.15,164.93,2024-03-04
+C1274,Aisha Mehta,Male,40,Coffee Maker,Home & Kitchen,Central,3,81.51,0.15,207.85,2024-02-25
+C1081,Grace Smith,Male,19,Headphones,Electronics,South,1,84.5,0.0,84.5,2024-07-17
+C1200,Aarav Brown,Female,65,Novel,Books,Central,6,16.35,0.15,83.38,2024-07-09
+C1087,Ananya Singh,Female,20,Smartwatch,Electronics,East,3,252.08,0.05,718.43,2024-02-14
+C1242,Rohan Sharma,Male,39,Smartwatch,Electronics,South,3,205.93,0.05,586.9,2024-09-06
+C1139,Sneha Nair,Female,62,Laptop,Electronics,East,7,735.11,0.15,4373.9,2024-05-16
+C1036,Grace Taylor,Male,30,Dumbbells,Sports,East,3,59.85,0.0,179.55,2024-09-17
+C1212,Michael Wilson,Male,59,Blender,Home & Kitchen,East,2,63.69,0.0,127.38,2024-06-03
+C1100,Grace Mehta,Male,68,Sneakers,Clothing,South,6,67.78,0.2,325.34,2024-01-03
+C1288,Sofia Nair,Male,48,Novel,Books,Central,5,16.44,0.1,73.98,2024-02-22
+C1113,Arjun Sharma,Female,46,Blender,Home & Kitchen,East,2,65.99,0.05,125.38,2024-12-09
+C1156,David Smith,Male,44,Dumbbells,Sports,Central,3,47.49,0.2,113.98,2024-10-05
+C1157,Meera Khan,Male,35,Cookware Set,Home & Kitchen,East,1,126.85,0.2,101.48,2024-03-01
+C1240,Rahul Khan,Female,29,Headphones,Electronics,North,4,74.56,0.05,283.33,2024-05-19
+C1230,Aisha Wilson,Male,25,Football,Sports,West,6,25.83,0.05,147.23,2024-04-22
+C1242,Rohan Sharma,Male,39,Smartwatch,Electronics,Central,7,247.24,0.2,1384.54,2024-04-25
+C1016,Sofia Brown,Female,37,Blender,Home & Kitchen,East,7,62.56,0.1,394.13,2024-09-06
+C1057,Meera Singh,Male,62,Yoga Mat,Sports,West,3,31.18,0.05,88.86,2024-06-08
+C1056,Vikram Brown,Female,48,Cookware Set,Home & Kitchen,East,6,130.45,0.15,665.3,2024-12-12
+C1147,Aisha Taylor,Female,64,Laptop,Electronics,South,4,759.26,0.15,2581.48,2024-10-21
+C1193,Aarav Mehta,Female,67,Football,Sports,West,4,22.38,0.0,89.52,2024-09-02
+C1135,Vikram Sharma,Male,27,Football,Sports,East,7,22.69,0.0,158.83,2024-01-10
+C1239,Sofia Wilson,Female,39,Smartwatch,Electronics,Central,3,202.23,0.0,606.69,2024-05-04
+C1130,Liam Singh,Male,60,Jacket,Clothing,West,4,94.52,0.1,340.27,2024-09-15
+C1036,Grace Taylor,Male,30,Sneakers,Clothing,South,5,76.67,0.15,325.85,2024-01-25
+C1220,Priya Taylor,Male,26,Novel,Books,West,7,14.56,0.1,91.73,2024-02-24
+C1114,Rahul Wilson,Female,23,Laptop,Electronics,North,3,935.73,0.0,2807.19,2024-09-21
+C1031,Aisha Garcia,Male,57,Smartphone,Electronics,South,1,599.58,0.2,479.66,2024-04-27
+C1093,Sofia Khan,Female,22,Textbook,Books,West,6,57.95,0.1,312.93,2024-02-05
+C1159,John Brown,Female,67,Cookware Set,Home & Kitchen,Central,7,107.86,0.15,641.77,2024-12-30
+C1065,Michael Singh,Male,66,Tablet,Electronics,East,6,352.39,0.2,1691.47,2024-01-12
+C1026,Michael Taylor,Male,52,Novel,Books,East,4,16.04,0.15,54.54,2024-12-13
+C1107,Aarav Mehta,Male,56,Novel,Books,West,4,13.91,0.2,44.51,2024-03-22
+C1174,Unknown,Male,22,Sneakers,Clothing,East,4,69.88,0.1,251.57,2024-06-14
+C1191,Liam Mehta,Female,42,Football,Sports,South,7,25.8,0.1,162.54,2024-12-08
+C1124,Rahul Khan,Female,40,Tablet,Electronics,North,4,390.73,0.0,1562.92,2024-01-29
+C1078,Rahul Smith,Male,52,Desk Lamp,Home & Kitchen,Central,6,30.06,0.1,162.32,2024-09-13
+C1045,Rohan Singh,Male,54,Laptop,Electronics,North,3,751.08,0.2,1802.59,2024-02-29
+C1173,Rohan Lee,Male,31,Jeans,Clothing,West,4,43.54,0.1,156.74,2024-10-20
+C1136,Michael Sharma,Male,48,Textbook,Books,West,3,57.06,0.05,162.62,2024-07-18
+C1215,Grace Nair,Male,58,Cookware Set,Home & Kitchen,East,5,103.83,0.15,441.28,2024-01-07
+C1041,Sofia Taylor,Male,26,Blender,Home & Kitchen,North,1,57.76,0.2,46.21,2024-06-11
+C1251,Rahul Nair,Female,44,Football,Sports,East,6,27.39,0.15,139.69,2024-05-15
+C1070,John Iyer,Female,43,Headphones,Electronics,North,5,71.45,0.15,303.66,2024-01-23
+C1187,Emma Singh,Female,25,Football,Sports,Central,4,25.85,0.2,82.72,2024-10-31
+C1082,Rahul Garcia,Female,37,Tablet,Electronics,Central,6,431.69,0.1,2331.13,2024-08-13
+C1056,Vikram Brown,Female,48,Headphones,Electronics,North,5,89.24,0.1,401.58,2024-04-13
+C1220,Priya Taylor,Male,26,Smartwatch,Electronics,East,6,223.19,0.1,1205.23,2024-04-14
+C1276,Emma Singh,Male,65,Coffee Maker,Home & Kitchen,West,5,80.88,0.0,404.4,2024-12-08
+C1183,Rohan Mehta,Male,52,Coffee Maker,Home & Kitchen,Central,5,103.33,0.1,464.98,2024-06-20
+C1006,Michael Reddy,Male,60,Dumbbells,Sports,North,7,46.9,0.0,328.3,2024-10-25
+C1158,Sofia Khan,Male,53,Sneakers,Clothing,East,1,75.73,0.05,71.94,2024-02-19
+C1100,Grace Mehta,Male,68,Novel,Books,West,6,13.07,0.1,70.58,2024-05-05
+C1083,Emma Taylor,Male,60,Jeans,Clothing,North,1,43.54,0.0,43.54,2024-09-21
+C1227,Liam Patel,Female,27,T-Shirt,Clothing,South,1,20.02,0.1,18.02,2024-06-20
+C1225,Aarav Sharma,Male,63,Laptop,Electronics,East,3,823.59,0.2,1976.62,2024-11-13
+C1226,Arjun Reddy,Male,27,Jeans,Clothing,West,6,43.94,0.0,263.64,2024-02-05
+C1094,Sneha Mehta,Male,44,Smartwatch,Electronics,East,7,248.35,0.0,1738.45,2024-05-09
+C1202,Sofia Lee,Female,63,Laptop,Electronics,North,3,868.15,0.2,2083.56,2024-11-19
+C1108,Michael Patel,Male,24,Headphones,Electronics,South,7,73.44,0.1,462.67,2024-12-30
+C1291,Meera Patel,Male,38,Novel,Books,North,1,14.31,0.0,14.31,2024-04-18
+C1042,Liam Sharma,Male,22,Jacket,Clothing,North,2,96.67,0.05,183.67,2024-03-27
+C1094,Sneha Mehta,Male,31,Yoga Mat,Sports,South,7,29.07,0.05,193.32,2024-07-25
+C1263,Meera Lee,Male,69,Smartphone,Electronics,North,6,599.58,0.0,3597.48,2024-06-07
+C1188,Priya Lee,Female,40,Textbook,Books,East,1,65.11,0.15,55.34,2024-06-28
+C1137,Meera Reddy,Female,38,Cookware Set,Home & Kitchen,East,3,137.84,0.0,413.52,2024-08-29
+C1195,Aisha Wilson,Male,24,Yoga Mat,Sports,East,1,34.04,0.05,32.34,2024-02-11
+C1184,Sneha Brown,Female,64,T-Shirt,Clothing,East,4,18.76,0.1,67.54,2024-03-29
+C1113,Arjun Sharma,Female,44,Dumbbells,Sports,South,6,62.14,0.05,354.2,2024-10-09
+C1191,Liam Mehta,Female,42,Textbook,Books,East,2,66.035,0.2,105.66,2024-07-13
+C1009,Aisha Taylor,Male,50,Headphones,Electronics,West,6,87.85,0.1,474.39,2024-02-01
+C1097,Rohan Singh,Female,27,Novel,Books,South,3,15.18,0.0,45.54,2024-08-13
+C1281,Aisha Taylor,Female,51,Smartphone,Electronics,West,5,670.14,0.05,3183.16,2024-02-28
+C1165,Ananya Mehta,Male,28,Dumbbells,Sports,North,4,50.93,0.15,173.16,2024-08-12
+C1164,Sneha Wilson,Male,32,Textbook,Books,East,3,66.96,0.05,190.84,2024-07-07
+C1295,David Nair,Female,41,Sneakers,Clothing,North,6,70.34,0.05,400.94,2024-01-18
+C1024,John Reddy,Female,25,Novel,Books,West,5,16.66,0.15,70.8,2024-12-05
+C1156,David Smith,Male,37,Laptop,Electronics,West,4,943.69,0.05,3586.02,2024-02-06
+C1135,Vikram Sharma,Male,27,Textbook,Books,North,4,72.66,0.0,290.64,2024-07-19
+C1237,Grace Smith,Male,33,Sneakers,Clothing,South,2,60.83,0.2,97.33,2024-04-15
+C1089,Rahul Nair,Male,56,Sneakers,Clothing,West,2,68.42,0.0,136.84,2024-05-14
+C1190,Ananya Garcia,Female,66,Jacket,Clothing,West,7,89.36,0.2,500.42,2024-08-03
+C1291,Meera Patel,Male,38,Smartwatch,Electronics,East,4,199.51,0.0,798.04,2024-05-23
+C1118,Sofia Iyer,Female,58,T-Shirt,Clothing,West,2,20.18,0.2,32.29,2024-09-23
+C1026,Michael Taylor,Female,52,Novel,Books,East,3,13.19,0.1,35.61,2024-02-17
+C1234,Rahul Singh,Male,44,Tablet,Electronics,Central,3,413.57,0.15,1054.6,2024-01-27
+C1005,Meera Khan,Male,66,Yoga Mat,Sports,East,1,32.81,0.05,31.17,2024-12-21
+C1133,Rahul Smith,Female,25,Novel,Books,North,4,16.54,0.2,52.93,2024-01-17
+C1240,Rahul Khan,Female,29,Yoga Mat,Sports,North,5,33.87,0.0,169.35,2024-10-02
+C1014,Meera Singh,Female,53,Yoga Mat,Sports,East,7,27.93,0.2,156.41,2024-12-01
+C1274,Aisha Mehta,Male,40,Smartphone,Electronics,North,3,537.63,0.1,1451.6,2024-04-12
+C1140,Meera Sharma,Male,27,Headphones,Electronics,North,2,91.08,0.0,182.16,2024-09-06
+C1228,Liam Lee,Female,41,Jeans,Clothing,Central,5,48.88,0.2,195.52,2024-11-27
+C1120,Emma Taylor,Male,59,Cookware Set,Home & Kitchen,East,3,135.58,0.2,325.39,2024-08-19
+C1071,Sofia Lee,Male,47,Laptop,Electronics,North,7,817.54,0.0,5722.78,2024-05-15
+C1155,Sofia Iyer,Male,39,Coffee Maker,Home & Kitchen,North,5,93.42,0.1,420.39,2024-05-20
+C1218,Rahul Patel,Female,44,Sneakers,Clothing,South,4,79.29,0.15,269.59,2024-02-05
+C1263,Meera Lee,Male,69,Novel,Books,East,5,16.7,0.15,70.97,2024-05-31
+C1133,Rahul Smith,Female,25,Coffee Maker,Home & Kitchen,West,7,98.52,0.0,689.64,2024-04-29
+C1233,John Reddy,Male,66,Yoga Mat,Sports,South,5,28.19,0.1,126.86,2024-06-13
+C1259,Rohan Sharma,Male,61,Desk Lamp,Home & Kitchen,North,5,31.33,0.0,156.65,2024-04-26
+C1181,Michael Patel,Female,22,Smartwatch,Electronics,South,7,189.61,0.0,1327.27,2024-10-04
+C1038,Rohan Brown,Male,52,Jacket,Clothing,Central,7,79.7,0.15,474.22,2024-03-21
+C1007,Meera Iyer,Male,29,Coffee Maker,Home & Kitchen,East,1,83.63,0.05,79.45,2024-11-04
+C1055,Rahul Iyer,Female,28,Cookware Set,Home & Kitchen,South,2,126.22,0.1,227.2,2024-10-22
+C1146,Sofia Nair,Female,23,Headphones,Electronics,East,7,75.68,0.1,476.78,2024-11-14
+C1062,Michael Sharma,Male,43,Jeans,Clothing,Central,3,46.44,0.15,118.42,2024-12-08
+C1235,Vikram Khan,Female,42,Cookware Set,Home & Kitchen,Central,3,114.64,0.2,275.14,2024-12-03
+C1159,John Brown,Female,67,Laptop,Electronics,North,4,958.37,0.2,3066.78,2024-07-05
+C1069,Arjun Mehta,Male,22,Sneakers,Clothing,West,6,67.73,0.05,386.06,2024-11-29
+C1170,Sneha Patel,Female,67,Textbook,Books,West,2,63.95,0.1,115.11,2024-11-01
+C1198,Sneha Taylor,Male,33,Cookware Set,Home & Kitchen,West,4,109.27,0.2,349.66,2024-11-11
+C1085,Olivia Brown,Female,44,Jacket,Clothing,East,3,89.24,0.1,240.95,2024-03-23
+C1126,John Iyer,Female,30,Smartwatch,Electronics,South,3,205.23,0.2,492.55,2024-07-24
+C1101,Arjun Garcia,Male,25,Sneakers,Clothing,East,1,71.5,0.0,71.5,2024-06-25
+C1228,Liam Lee,Male,41,Headphones,Electronics,North,6,72.75,0.15,371.02,2024-11-02
+C1249,Meera Khan,Female,44,Novel,Books,East,6,14.88,0.2,71.42,2024-06-18
+C1095,Aarav Lee,Female,30,Yoga Mat,Sports,West,6,29.52,0.2,141.7,2024-04-02
+C1031,Aisha Garcia,Male,57,Novel,Books,East,1,14.74,0.2,11.79,2024-03-09
+C1290,David Iyer,Female,45,Yoga Mat,Sports,North,4,27.64,0.0,110.56,2024-07-27
+C1237,Grace Smith,Male,44,Tablet,Electronics,North,2,374.33,0.2,598.93,2024-03-14
+C1157,Meera Khan,Female,35,Jeans,Clothing,South,7,41.82,0.15,248.83,2024-06-02
+C1069,Arjun Mehta,Male,44,Coffee Maker,Home & Kitchen,Central,4,104.96,0.0,419.84,2024-04-12
+C1230,Aisha Wilson,Male,25,Desk Lamp,Home & Kitchen,North,6,31.52,0.2,151.3,2024-10-06
+C1078,Rahul Smith,Male,52,T-Shirt,Clothing,East,3,20.53,0.15,52.35,2024-06-28
+C1187,Emma Singh,Female,25,Desk Lamp,Home & Kitchen,North,6,33.71,0.15,171.92,2024-02-19
+C1214,John Sharma,Female,59,Smartwatch,Electronics,Central,5,190.52,0.2,762.08,2024-08-29
+C1176,Rahul Garcia,Male,47,Laptop,Electronics,West,3,832.65,0.15,2123.26,2024-07-16
+C1195,Aisha Wilson,Male,24,Jacket,Clothing,West,1,101.43,0.05,96.36,2024-12-29
+C1086,Rohan Smith,Female,66,Dumbbells,Sports,East,2,59.12,0.2,94.59,2024-06-14
+C1166,David Reddy,Female,62,Football,Sports,Central,3,25.63,0.0,76.89,2024-07-28
+C1104,Grace Patel,Male,44,Smartphone,Electronics,North,7,559.67,0.1,3525.92,2024-11-07
+C1085,Olivia Brown,Female,44,Football,Sports,North,4,27.12,0.2,86.78,2024-01-28
+C1250,Michael Mehta,Male,64,Dumbbells,Sports,West,7,47.12,0.15,280.36,2024-03-31
+C1115,Sneha Patel,Female,39,Laptop,Electronics,West,5,764.7,0.15,3249.98,2024-11-05
+C1029,Aarav Patel,Male,23,Coffee Maker,Home & Kitchen,East,2,86.91,0.2,139.06,2024-10-01
+C1127,John Smith,Female,56,Smartphone,Electronics,East,6,662.24,0.15,3377.42,2024-05-27
+C1131,Emma Brown,Female,25,Desk Lamp,Home & Kitchen,South,4,34.82,0.1,125.35,2024-11-11
+C1252,Sneha Garcia,Male,59,Laptop,Electronics,North,1,739.58,0.1,665.62,2024-09-29
+C1035,Grace Smith,Male,44,Smartwatch,Electronics,East,1,195.91,0.2,156.73,2024-07-06
+C1087,Ananya Singh,Female,20,Coffee Maker,Home & Kitchen,North,5,106.35,0.2,425.4,2024-10-29
+C1116,Aarav Lee,Male,48,Smartwatch,Electronics,Central,1,221.82,0.0,221.82,2024-11-07
+C1208,Arjun Singh,Female,58,T-Shirt,Clothing,North,7,18.51,0.05,123.09,2024-01-15
+C1164,Sneha Wilson,Male,32,Jacket,Clothing,Central,6,91.41,0.1,493.61,2024-12-27
+C1054,Priya Patel,Male,64,Football,Sports,North,6,24.87,0.2,119.38,2024-02-23
+C1057,Meera Singh,Male,62,Blender,Home & Kitchen,West,1,52.41,0.2,41.93,2024-01-23
+C1238,Olivia Khan,Female,49,Blender,Home & Kitchen,North,2,68.85,0.0,137.7,2024-12-04
+C1284,Sneha Khan,Female,46,Yoga Mat,Sports,South,2,28.9,0.2,46.24,2024-10-14
+C1278,Ananya Brown,Male,43,Smartwatch,Electronics,North,5,242.88,0.05,1153.68,2024-04-03
+C1105,Rohan Reddy,Female,48,Yoga Mat,Sports,Central,3,34.14,0.05,97.3,2024-08-01
+C1151,Michael Garcia,Male,44,Textbook,Books,North,6,64.24,0.0,385.44,2024-09-17
+C1191,Liam Mehta,Female,42,Coffee Maker,Home & Kitchen,East,1,109.07,0.2,87.26,2024-02-10
+C1099,Aarav Singh,Male,34,Smartwatch,Electronics,Central,1,197.64,0.2,158.11,2024-01-28
+C1133,Rahul Smith,Female,25,Novel,Books,North,2,13.17,0.15,22.39,2024-02-18
+C1239,Sofia Wilson,Female,39,Smartwatch,Electronics,East,3,208.23000000000002,0.15,530.99,2024-04-02
+C1025,Michael Singh,Female,18,Coffee Maker,Home & Kitchen,Central,7,103.73,0.0,726.11,2024-10-20
+C1052,John Mehta,Male,44,Textbook,Books,East,3,62.61,0.0,187.83,2024-10-22
+C1089,Rahul Nair,Male,56,Tablet,Electronics,Central,4,443.31,0.2,1418.59,2024-11-30
+C1229,Meera Mehta,Male,51,Blender,Home & Kitchen,South,7,66.06,0.0,462.42,2024-09-17
+C1282,David Reddy,Male,52,Blender,Home & Kitchen,North,4,59.35,0.15,201.79,2024-07-31
+C1059,Olivia Iyer,Male,50,Laptop,Electronics,Central,6,896.67,0.2,4304.02,2024-07-01
+C1213,Grace Smith,Male,62,Desk Lamp,Home & Kitchen,East,7,37.73,0.1,237.7,2024-04-14
+C1157,Meera Khan,Female,35,Jacket,Clothing,East,4,94.8,0.15,322.32,2024-10-06
+C1297,David Sharma,Male,32,Blender,Home & Kitchen,East,6,54.81,0.2,263.09,2024-09-05
+C1001,Sofia Nair,Male,54,Jacket,Clothing,West,5,88.18,0.05,418.86,2024-10-10
+C1288,Sofia Nair,Male,48,Cookware Set,Home & Kitchen,Central,4,114.36,0.1,411.7,2024-11-20
+C1283,Michael Mehta,Female,21,Blender,Home & Kitchen,Central,4,64.61,0.2,206.75,2024-05-11
+C1017,Priya Iyer,Female,27,Coffee Maker,Home & Kitchen,West,3,99.68,0.1,269.14,2024-09-02
+C1195,Aisha Wilson,Male,24,Yoga Mat,Sports,North,3,28.38,0.05,80.88,2024-03-30
+C1197,Meera Sharma,Male,41,Sneakers,Clothing,East,2,80.22,0.0,160.44,2024-08-06
+C1174,Vikram Wilson,Male,22,Sneakers,Clothing,North,7,70.47,0.05,468.63,2024-06-12
+C1143,Emma Sharma,Male,37,Dumbbells,Sports,Central,1,53.92,0.15,45.83,2024-09-18
+C1005,Meera Khan,Male,66,Jeans,Clothing,East,2,46.18,0.2,73.89,2024-04-19
+C1203,Vikram Smith,Female,61,Coffee Maker,Home & Kitchen,North,4,92.04,0.0,368.16,2024-09-22
+C1039,Rahul Garcia,Female,44,Novel,Books,East,7,14.41,0.0,100.87,2024-05-17
+C1153,Michael Khan,Female,51,Sneakers,Clothing,North,3,63.3,0.05,180.4,2024-02-22
+C1067,Olivia Wilson,Male,44,Cookware Set,Home & Kitchen,North,5,106.03,0.2,424.12,2024-07-29
+C1086,Rohan Smith,Female,66,Cookware Set,Home & Kitchen,South,4,102.08,0.2,326.66,2024-04-12
+C1091,Rahul Garcia,Male,34,Desk Lamp,Home & Kitchen,Central,5,34.65,0.05,164.59,2024-02-06
+C1172,Arjun Mehta,Male,44,Yoga Mat,Sports,South,4,28.55,0.1,102.78,2024-09-20
+C1263,Meera Lee,Male,69,Coffee Maker,Home & Kitchen,Central,7,89.94,0.15,535.14,2024-03-10
+C1261,Vikram Singh,Male,49,Sneakers,Clothing,South,7,65.81,0.1,414.6,2024-10-09
+C1141,Rohan Smith,Male,30,Smartwatch,Electronics,South,5,215.9,0.2,863.6,2024-11-06
+C1054,Priya Patel,Male,64,Tablet,Electronics,East,7,428.08,0.2,2397.25,2024-05-19
+C1280,Aarav Patel,Male,44,Football,Sports,West,7,26.84,0.15,159.7,2024-03-26
+C1024,John Reddy,Female,25,Smartphone,Electronics,East,4,546.36,0.0,2185.44,2024-04-20
+C1020,Rohan Iyer,Male,61,Tablet,Electronics,North,3,385.26,0.05,1097.99,2024-10-08
+C1225,Unknown,Female,63,Cookware Set,Home & Kitchen,South,3,112.89,0.2,270.94,2024-09-18
+C1295,David Nair,Female,41,Novel,Books,South,2,16.44,0.15,27.95,2024-08-15
+C1097,Rohan Singh,Female,27,Tablet,Electronics,South,4,348.3,0.15,1184.22,2024-12-13
+C1124,Rahul Khan,Female,40,Novel,Books,East,3,14.82,0.15,37.79,2024-08-28
